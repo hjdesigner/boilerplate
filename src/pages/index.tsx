@@ -9,6 +9,7 @@ type Props = {
 const bla = 'var'
 const bla = 'var'
 const bla = 'var'
+const bla = 'var'
 
 export default function Home({ title = 'Create Next App' }: Props) {
   return (
